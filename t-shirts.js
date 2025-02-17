@@ -5,7 +5,7 @@ const tshirts = [
     price: 7.99,
     stock: 4,
     quantity: 1
-  },
+  }, 
   {
     title: 'Bright Purple T-Shirt',
     image: 'bright-purple-t-shirt.jpg',
